@@ -1,7 +1,9 @@
-- Hi there 👋, I'm Prathamesh Pitale
-Motivated to Succed|
+-Hi there 👋, I'm Prathamesh Pitale
+
+-Motivated to Succed|
 Eager to learn new things, gain new knowledge|
-Developing myself as Frontend Developer|
+
+-Developing myself as Frontend Developer|
 HTML,CSS,PHP,JS,React|
 Learning in Public!
 
@@ -11,9 +13,9 @@ Started with "Hello World" in cpp, now trying SPA in 2021. What about 2022 🤔?
 Learning is only constant.
 
 connect with me on here
-https://twitter.com/home
-linkedin.com/in/prathamesh-pitale 
 
+[twitter](https://twitter.com/home) <br />
+[Linkedin](https://www.linkedin.com/in/prathamesh-pitale/)
 
 <!---
 Prathamesh-Pitale/Prathamesh-Pitale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
