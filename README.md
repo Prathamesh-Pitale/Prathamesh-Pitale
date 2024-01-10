@@ -14,7 +14,7 @@ Learning is only constant.
 
 connect with me on here
 
-[twitter](https://twitter.com/home) <br />
+[twitter](https://x.com/Pitale_Pratham?t=gthbEF0fDvFxmXNsazXL3Q&s=09) <br />
 [Linkedin](https://www.linkedin.com/in/prathamesh-pitale/)
 
 <!---
