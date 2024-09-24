@@ -9,7 +9,7 @@ Learning in Public!
 
 
 This repositary holds glimpses of my journey which I started towards becoming a good Frontend Developer, who holds eye for detail and itch for an innovation.
-Started with "Hello World" in cpp, now trying SPA in 2021. What about 2022 🤔? cant predict 😆
+Started with "Hello World" in cpp, and evolving from there. 😆
 Learning is only constant.
 
 connect with me on here
